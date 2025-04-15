@@ -1,0 +1,7 @@
+name: bee-kingdom
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+prefix: C:\Users\m.zein\AppData\Local\miniconda3\envs\bee-kingdom
